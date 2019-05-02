@@ -1,0 +1,27 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="leekeryu.com" resolutions="1x" timestamp="1556783408067">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="contact.css" crc="4113945714" ref="contact"/>
+    <file name="index.css" crc="3965134736" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact"/>
+    <file name="museutils.js" crc="4216313831" ref="index:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contact"/>
+    <file name="museconfig.js" crc="474374037" ref="index:contact"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:contact"/>
+    <file name="require.js" crc="3951022091" ref="index:contact"/>
+  </folder>
+  <folder name="images">
+    <file name="graphicmidterm.svg" crc="4246862200" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="graphicmidterm_poster_.png" crc="4201623581" ref="index"/>
+    <file name="contact.svg" crc="108005210" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="contact_poster_.png" crc="3776960377" ref="contact"/>
+  </folder>
+  <file name="index.html" crc="3769159547" seo="true" mt="1556783347279" redirect="true"/>
+  <file name="contact.html" crc="4160928965" seo="true" mt="1556782992898" redirect="true"/>
+</manifest>
