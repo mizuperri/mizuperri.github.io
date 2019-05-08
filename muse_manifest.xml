@@ -1,27 +1,57 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="leekeryu.com" resolutions="1x" timestamp="1556783408067">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mizuperri.github.io" resolutions="1x" timestamp="1557342512368">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="contact.css" crc="4113945714" ref="contact"/>
-    <file name="index.css" crc="3965134736" ref="index"/>
+    <file name="contact.css" crc="379062850" ref="contact"/>
+    <file name="index.css" crc="486660363" ref="index"/>
+    <file name="faded.css" crc="39423925" ref="faded"/>
+    <file name="solitude.css" crc="189692864" ref="solitude"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact"/>
-    <file name="museutils.js" crc="4216313831" ref="index:contact"/>
-    <file name="whatinput.js" crc="86476730" ref="index:contact"/>
-    <file name="museconfig.js" crc="474374037" ref="index:contact"/>
-    <file name="jquery.watch.js" crc="460461809" ref="index:contact"/>
-    <file name="require.js" crc="3951022091" ref="index:contact"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact:solitude:faded"/>
+    <file name="museutils.js" crc="4216313831" ref="index:contact:solitude:faded"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contact:solitude:faded"/>
+    <file name="museconfig.js" crc="474374037" ref="index:contact:solitude:faded"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:contact:solitude:faded"/>
+    <file name="require.js" crc="3951022091" ref="index:contact:solitude:faded"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="graphicmidterm.svg" crc="4246862200" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="graphicmidterm_poster_.png" crc="4201623581" ref="index"/>
     <file name="contact.svg" crc="108005210" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
     <file name="contact_poster_.png" crc="3776960377" ref="contact"/>
+    <file name="blank.gif" crc="4208392903" ref="contact:solitude:faded:index"/>
+    <file name="u392.png" crc="4096311516" ref="contact"/>
+    <file name="u392-r.png" crc="489097770" ref="contact"/>
+    <file name="pasted-svg-246958x89.svg" crc="109215202" seo="true" ref="solitude:faded:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="solitude" alt=""/>
+      <caption webpage="faded" alt=""/>
+    </file>
+    <file name="pasted svg 246958x89_poster_.png" crc="3859723990" ref="solitude"/>
+    <file name="solitude.svg" crc="368892609" seo="true" ref="solitude">
+      <caption webpage="solitude" alt=""/>
+    </file>
+    <file name="solitude_poster_.png" crc="126804271" ref="solitude"/>
+    <file name="u542.png" crc="18343426" ref="solitude"/>
+    <file name="u542-r.png" crc="145191954" ref="solitude"/>
+    <file name="faded.svg" crc="39418967" seo="true" ref="faded">
+      <caption webpage="faded" alt=""/>
+    </file>
+    <file name="faded_poster_.png" crc="4072269018" ref="faded"/>
+    <file name="u513.png" crc="18343426" ref="faded"/>
+    <file name="u513-r.png" crc="145191954" ref="faded"/>
+    <file name="u575-4-a.png" crc="174690818" ref="index"/>
+    <file name="u621.png" crc="71856143" ref="index"/>
+    <file name="u621-a.png" crc="71856143" ref="index"/>
+    <file name="u651.png" crc="316777848" ref="index"/>
+    <file name="u651-a.png" crc="316777848" ref="index"/>
+    <file name="u582.png" crc="187295580" ref="index"/>
+    <file name="u582-a.png" crc="187295580" ref="index"/>
   </folder>
-  <file name="index.html" crc="3769159547" seo="true" mt="1556783347279" redirect="true"/>
-  <file name="contact.html" crc="4160928965" seo="true" mt="1556782992898" redirect="true"/>
+  <file name="index.html" crc="4063816132" seo="true" mt="1557342152330" redirect="true"/>
+  <file name="contact.html" crc="4294935485" seo="true" mt="1557342500348" redirect="true"/>
+  <file name="solitude.html" crc="496564731" seo="true" mt="1557342373893" redirect="true"/>
+  <file name="faded.html" crc="526058832" seo="true" mt="1557341583208" redirect="true"/>
 </manifest>
